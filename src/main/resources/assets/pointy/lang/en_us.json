@@ -1,0 +1,18 @@
+{
+  "key.category.pointy.point": "Pointy",
+  "key.pointy.point": "Point at something",
+
+  "pointy": "Pointy",
+  "pointy.on": "enabled",
+  "pointy.off": "disabled",
+
+  "pointy.cmd.send_color": "Now packet sending for color is {0}",
+  "pointy.cmd.by_you": "Now \"You\" will be replaced with {0}",
+
+  "pointy.cmd.new_text": "You set the text: {0}",
+  "pointy.cmd.text_must_contain": "Error, the text must contain {0} (for replacing the nickname)",
+  "pointy.cmd.new_color": "You set the color: {0}",
+  "pointy.cmd.new_animation": "You set the animation: {0}",
+  "pointy.cmd.animation_not_found": "Animation {0} not found"
+
+}

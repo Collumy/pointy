@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "pointy",
+	"version": "${version}",
+	"name": "Pointy",
+	"description": "Это короче мод чтобы тыкать на что-то или кого-то",
+	"authors": [
+		"Collumy"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "assets/pointy/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			{
+				"value": "me.collumy.pointy.Pointy",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"pointy.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	}
+}

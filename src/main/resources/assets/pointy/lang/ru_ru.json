@@ -1,0 +1,17 @@
+{
+  "key.category.pointy.point": "Pointy",
+  "key.pointy.point": "Указать на что-нибудь",
+
+  "pointy": "Pointy",
+  "pointy.on": "включено",
+  "pointy.off": "выключено",
+
+  "pointy.cmd.send_color": "Теперь отправление пакетов для цвета {0}",
+  "pointy.cmd.by_you": "Теперь \"Вами\" будет заменяться на {0}",
+
+  "pointy.cmd.new_text": "Вы поставили текст: {0}",
+  "pointy.cmd.text_must_contain": "Ошибка, текст должен содержать {0} (для замены ником)",
+  "pointy.cmd.new_color": "Вы поставили цвет: {0}",
+  "pointy.cmd.new_animation": "Вы поставили анимацию: {0}",
+  "pointy.cmd.animation_not_found": "Анимация {0} не найдена"
+}

@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "me.collumy.pointy.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"BitShiftMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
